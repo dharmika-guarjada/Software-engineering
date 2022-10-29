@@ -1,0 +1,27 @@
+users: AdminiStrators, officers-faculty and students
+userstories :
+administrator : As a Administrator , I want to create a user
+name and password to other roles of the user so that It
+would help in smooth running of the institute
+officer : As an official , I want to know the details of
+the students so that I can generate reports including
+the student status, course Addition , detection etc.
+Faculty : As a faculty , I want to know student to
+choose their faculty and pass the details so that
+I can share time table , course material
+student: As a student, I want to register myself. so
+that I can set the course timetable and the conclued materia
+users: AdminiStrators, officers-faculty and students
+userstories :
+administrator : As a Administrator , I want to create a user
+name and password to other roles of the user so that It
+would help in smooth running of the institute
+officer : As an official , I want to know the details of
+the students so that I can generate reports including
+the student status, course Addition , detection etc.
+Faculty : As a faculty , I want to know student to
+choose their faculty and pass the details so that
+I can share time table , course material
+student: As a student, I want to register myself. so
+that I can set the course timetable and the
+concluded material
